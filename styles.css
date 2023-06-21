@@ -19,6 +19,7 @@ body {
     padding: 0;
     border-bottom: 2px solid black;
     font-size: 24px;
+    font-family: Copperplate, fantasy;
 }
 
 .tab {
@@ -37,4 +38,5 @@ body {
 .tabs-stuff {
     margin-left: 20px;
     margin-right: 20px;
+    font-family: Arial, sans-serif;
 }
